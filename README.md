@@ -1,4 +1,4 @@
-Link : https://store-rating-application-lilac.vercel.app/
+Link of application  : https://store-rating-application-lilac.vercel.app/
 **Admin Credentail:**
  -Email : rahil.apsit.5426@gmail.com and Password : Rahil@123 ,Use admin credential to check all the functionality of admin 
 # Store Rating Web Application
