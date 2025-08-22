@@ -1,4 +1,4 @@
-Link of application  : https://store-rating-application-lilac.vercel.app/
+ 
   
 # Store Rating Web Application
 
